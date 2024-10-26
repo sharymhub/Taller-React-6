@@ -1,0 +1,30 @@
+.Contador {
+    text-align: center;
+    align-content: center;
+    margin: 50px auto;
+    border-radius: 20px;
+}
+
+.button {
+    background-color:#bacdb1;
+    border: none;
+    margin: 5px;
+    height: 40px;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 17px;
+}
+
+.numero {
+    font-size: 50px;
+}
+
+.Button {
+    background-color:#5dc8f5;
+    border: none;
+    margin: 5px;
+    height: 40px;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 17px;
+}
